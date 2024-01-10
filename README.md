@@ -3,7 +3,8 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=c1ff72&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐂𝐇𝐀𝐈𝐍𝐒𝐇𝐈𝐅𝐓.;𝐀+𝐁𝐋𝐎𝐂𝐊𝐂𝐇𝐀𝐈𝐍+𝐁𝐀𝐒𝐄𝐃+𝐂𝐘𝐁𝐄𝐑+𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘+𝐂𝐎𝐌𝐏𝐀𝐍𝐘;𝐓𝐇𝐀𝐍𝐊𝐒+𝐅𝐎𝐑+𝐕𝐈𝐒𝐈𝐓𝐈𝐍𝐆+𝐏𝐑𝐎𝐅𝐈𝐋𝐄 )](https://git.io/typing-svg)
 
-# 𒆜𝐂𝐇𝐀𝐈𝐍𝐒𝐇𝐈𝐅𝐓𒆜
+# 𒆜𝐀𝐁𝐎𝐔𝐓 𝐂𝐇𝐀𝐈𝐍𝐒𝐇𝐈𝐅𝐓𒆜
+
 
 <div align="center">
   <img border-radius: 15px src="https://avatars.githubusercontent.com/u/152809984?v=4" width="200" height="200"/>
@@ -12,6 +13,17 @@
   <a href="https://instagram.com/chain_shift"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/+917060603346"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
+
+<div align="center">
+  <p>
+    The inception of Chainshift is rooted in a visionary quest for a future where digital interactions are not only secure but also decentralized. The mission is clear: to leverage the transformative potential of blockchain technology in redefining the boundaries of cybersecurity. This chapter elucidates the visionary outlook that propels Chainshift forward, offering a glimpse into the ideals that guide its mission.
+  </p>
+</div>
+
+ <div align="center">
+   <p> For more information checkout <a href="https://www.chainshift">OUR WEBSITE</a></p> 
+  
+  </div>
 
 ## <!-- Typing SVG -->
 <p align="center">
@@ -30,6 +42,8 @@
        
   
   </div>
+
+ 
  
 ## ᴄᴏɴᴛᴀᴄᴛ ᴡɪᴛʜ ᴍᴇ
  
