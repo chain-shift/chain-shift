@@ -37,15 +37,11 @@
 
 <p align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chain-shift&show_icons=true&theme=dark&locale=en"alt="yashcybrot" /></p>
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chainshift&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
-
     
   <div align="center">
        
-  
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chain-shift&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
   </div>
-
  
  
 # 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐖𝐈𝐓𝐇 𝐌𝐄
