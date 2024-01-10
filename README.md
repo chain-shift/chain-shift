@@ -3,7 +3,7 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=c1ff72&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐂𝐇𝐀𝐈𝐍𝐒𝐇𝐈𝐅𝐓.;𝐀+𝐁𝐋𝐎𝐂𝐊𝐂𝐇𝐀𝐈𝐍+𝐁𝐀𝐒𝐄𝐃+𝐂𝐘𝐁𝐄𝐑+𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘+𝐂𝐎𝐌𝐏𝐀𝐍𝐘;𝐓𝐇𝐀𝐍𝐊𝐒+𝐅𝐎𝐑+𝐕𝐈𝐒𝐈𝐓𝐈𝐍𝐆+𝐏𝐑𝐎𝐅𝐈𝐋𝐄 )](https://git.io/typing-svg)
 
-# 𒆜𝐀𝐁𝐎𝐔𝐓 𝐂𝐇𝐀𝐈𝐍𝐒𝐇𝐈𝐅𝐓𒆜
+# 𝐀𝐁𝐎𝐔𝐓 𝐂𝐇𝐀𝐈𝐍𝐒𝐇𝐈𝐅𝐓
 
 
 <div align="center">
@@ -45,7 +45,7 @@
 
  
  
-## ᴄᴏɴᴛᴀᴄᴛ ᴡɪᴛʜ ᴍᴇ
+# 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐖𝐈𝐓𝐇 𝐌𝐄
  
 <div align="center">
 <a href="https://github.com/chain-shift" target="_blank">
@@ -66,7 +66,7 @@
 <img src="https://komarev.com/ghpvc/?username=chain-shift&&style=flat-square" align="center" />
 </div> 
 
-## TEAM MEMBER
+# 𝐓𝐄𝐀𝐌 𝐌𝐄𝐌𝐁𝐄𝐑
 <!-- readme: collaborators,contributors -start -->
 <table>
 <tr>
