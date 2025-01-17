@@ -84,10 +84,10 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/AmandracOP">
-            <img src="https://avatars.githubusercontent.com/u/82217000?v=4" width="50;" alt="navya"/>
+        <a href="https://github.com/PremRaj99">
+            <img src="https://avatars.githubusercontent.com/u/113841802?v=4" width="50;" alt="navya"/>
             <br />
-            <sub><b>NAVYA ANAND</b></sub>
+            <sub><b>Prem Raj</b></sub>
         </a>
     </td>
     <td align="center">
